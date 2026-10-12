@@ -18,7 +18,7 @@ Every published number is computed by code and checked byte for byte in CI.
 
 ## Specifications (IETF Internet-Drafts)
 
-- [draft-gravit-gevp-07](https://datatracker.ietf.org/doc/draft-gravit-gevp/07/) — GEVP, the mechanism: how evidence is verified
+- [draft-gravit-gevp-08](https://datatracker.ietf.org/doc/draft-gravit-gevp/08/) — GEVP, the mechanism: how evidence is verified
 - [draft-gravit-verifiable-epistemic-decision-00](https://datatracker.ietf.org/doc/draft-gravit-verifiable-epistemic-decision/00/) — VEDS, the policy: what a verified decision must guarantee
 
 Internet-Drafts are individual submissions; they are not endorsed by the IETF.
