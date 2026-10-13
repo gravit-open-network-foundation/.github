@@ -29,6 +29,7 @@ Internet-Drafts are individual submissions; they are not endorsed by the IETF.
 |---|---|
 | [verifier](https://github.com/gravit-open-network-foundation/verifier) | Reference verifier (Python + Rust port): no aggregation laundering, Ed25519-signed evidence, 3-of-5 registry trust root, 40 golden vectors |
 | [gravit-eval-pack](https://github.com/gravit-open-network-foundation/gravit-eval-pack) | One command to reproduce conformance, an adversarial benchmark and Sybil experiments |
+| [gravit-safr-adapter](https://github.com/gravit-open-network-foundation/gravit-safr-adapter) | Reference adapter for SAFR v1.1 (MAS BuildFin.ai): agent action traces corroborated by independent signed records, offline-auditable decision log |
 | [gravit-grover](https://github.com/gravit-open-network-foundation/gravit-grover) | Consensus engine (classical, Grover-inspired amplification) with reproducible Sybil experiments |
 | [gravit-canon](https://github.com/gravit-open-network-foundation/gravit-canon) | Canonical specification repository |
 | PoCs: [AllUnity](https://github.com/gravit-open-network-foundation/gravit-allunity-poc), [Sygnum](https://github.com/gravit-open-network-foundation/gravit-sygnum-poc), [EasyMM](https://github.com/gravit-open-network-foundation/gravit-easymm-poc) | Proofs of concept; partner interfaces simulated, test keys only |
